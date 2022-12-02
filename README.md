@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alvaro 
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning NodeJS and Express
 
 <h3>My languages</h1>
