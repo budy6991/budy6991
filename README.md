@@ -4,8 +4,10 @@
 
 <h3>My languages</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budy6991&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div style="background-color:aliceblue;padding:25px;">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budy6991&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h3>Skills</h1>
 
