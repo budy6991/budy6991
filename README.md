@@ -5,9 +5,12 @@
 <h3>My languages</h1>
 
 
-<div align='center'>
+<!-- <div align='center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budy6991&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budy6991&layout=compact&langs_count=8" />
+</a>
 
 <h3>Skills</h1>
 
